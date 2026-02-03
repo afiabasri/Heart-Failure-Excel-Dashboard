@@ -54,11 +54,6 @@ All visuals are **fully interactive** using slicers.
 
 ---
 
-## 🖼 Dashboard Preview
-![Dashboard Preview](Screenshots/dashboard_preview.png)
-
----
-
 ## 🚀 Business Insights
 - Higher mortality observed in older age groups
 - Hypertension and diabetes are common among deceased patients
@@ -66,4 +61,6 @@ All visuals are **fully interactive** using slicers.
 
 ---
 
+## 🖼 Dashboard Preview
+![Dashboard Preview](https://github.com/afiabasri/Heart-Failure-Excel-Dashboard/blob/main/Heart_Disease_Dashoard.png)
 
